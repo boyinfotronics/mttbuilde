@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_db9b6e7f37da5f9d0d2100e0b6724dfd1dc4ae0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\05\sma\node_modules\react-native-google-signin\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db2d08cc1e2f91d7be8debfe181e875338f43610">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_803c9b50be3033adc32a3f76c3f2680b3b7421a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\c53498d1be7d8684066c97be02c4eaf49ed8d00d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_6483cc695f88b89356d98365f561a9a7227fbc40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-maps\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e400356a2afc578cf6665afe0ba2db2bdaa1f9cb">
+        <dex dex="C:\Users\Weeradeth\mttproject\mtt\android\app\build\intermediates\pre-dexed\release\classes_30bab91ad112275b94ebf92197c485b10936e107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-google-signin\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db2d08cc1e2f91d7be8debfe181e875338f43610">
+        <dex dex="C:\Users\Weeradeth\mttproject\mtt\android\app\build\intermediates\pre-dexed\release\classes_2664d3c57c0aca38f50b68464b3b326dfd5a0b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-config\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4f5d9bafe73f70afc4bf89a7851a09853772cc">
+        <dex dex="C:\Users\Weeradeth\mttproject\mtt\android\app\build\intermediates\pre-dexed\release\classes_61a76e99527f69e5f046d4450833bc2b1e3158f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\05\sma\node_modules\react-native-facebook-login\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e541f3efe2bc07308e1bc32ffb8143feeee8a55">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_cbaaabbf488abaf17c22e51ba426b6efc63dbf80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\05\sma\node_modules\react-native-config\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4f5d9bafe73f70afc4bf89a7851a09853772cc">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_549362f20ddb6b6381578c6e24cdb8b7748fb978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-facebook-login\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e541f3efe2bc07308e1bc32ffb8143feeee8a55">
+        <dex dex="C:\Users\Weeradeth\mttproject\mtt\android\app\build\intermediates\pre-dexed\release\classes_87d7af60a5a8243eb3bff21a9cf8c1bbff35fb4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\05\sma\node_modules\react-native-maps\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e400356a2afc578cf6665afe0ba2db2bdaa1f9cb">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_2d1826f9c60b01b34e90ea081801b95e8942d6b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\850de4c48adbd697564ebfafda01d6ea4513bbb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_9f6870ac26af6696d2cbbb08658de4ac5a908ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\f1e11505366fa55a8da6aea7e80a2ea8aade8115\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_3a382e87b2516487ca8cd47bf01b022eb164775a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\05\sma\node_modules\react-native-device-info\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="993541f7e9680e9ee47fda8918f08248e125b49f">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_a98a597a4ee27aebe42ad389d1977516dae9d00e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\05\sma\node_modules\react-native-i18n\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="265d5a9330ad02283d16b9886fe8acebb306cd1e">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_34c1350a05980e72289e83a235b74ad4fb0a4993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-device-info\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="993541f7e9680e9ee47fda8918f08248e125b49f">
+        <dex dex="C:\Users\Weeradeth\mttproject\mtt\android\app\build\intermediates\pre-dexed\release\classes_e22605cf6c5b9b18639f92c4b618c2a24c308953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\919f64c6a01ff98028843d0289322025c3a79924\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_fe7f38468010dbffa395ce4c9b077a39000d4065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="C:\Users\Weeradeth\mttproject\mtt\android\app\build\intermediates\pre-dexed\release\classes_71ecfcd782aa8d369ef8d099f743788f106ecc3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\10715791f4327f9e9589fc4a456f99fe96744276\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_eb56c70c1a4bb3593f62985c66e1bc5e6fcc682a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\46e8a1a6839c6b315df524a212d7305b17f90ad4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_0b657168d9d7190e5be077c452fa833e9aad3ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\05\sma\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_3d915b3c37c032af37c143b301c5569298af8642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\40c8bee2bf57282337d67c551df747ca7ceb3fd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f66dccf471b94d5d28c54a6b8ca9e1668b0fb0ce">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_83bb51d267dfad8e2edaf3abec578d9be1d48b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\a3f7d1785cc8b72e211df7c24587153ca44632b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_88d4366b43c2edcaf428b4f80c38cd3c374348ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\070dfb05b68864aa09fc47696344f540a020d181\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\classes_8677287ce471d5386a0fda0dd5ca210395ded8ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-i18n\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="265d5a9330ad02283d16b9886fe8acebb306cd1e">
+        <dex dex="C:\Users\Weeradeth\mttproject\mtt\android\app\build\intermediates\pre-dexed\release\classes_5f175410cb3b363a5ab32258cf35b83097db12d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weeradeth\.android\build-cache\40c8bee2bf57282337d67c551df747ca7ceb3fd5\output\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Users\Weeradeth\05\sma\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_56f81470fa5f6462c0fa3b22f3a8a130a04521e8.jar" />
+    </item>
+
+</items>

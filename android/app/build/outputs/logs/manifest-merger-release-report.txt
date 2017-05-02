@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:1:1-66:12
+	package
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [smaignite:react-native-maps:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-maps\android\build\intermediates\bundles\default\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Weeradeth\.android\build-cache\b5ff9b901bb98c016c3e2ff8848170e8153328fa\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\Weeradeth\.android\build-cache\d892898d19c6ab12caa9c3862ee3be1065004a27\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\Weeradeth\.android\build-cache\9db661e51ec6eed220210a76637a773ab8291620\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:8:5-77
+MERGED from [com.facebook.react:react-native:0.43.0] C:\Users\Weeradeth\.android\build-cache\806664f55d412fd26b3fef9e12dee27ac194fec8\output\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Weeradeth\.android\build-cache\b5ff9b901bb98c016c3e2ff8848170e8153328fa\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:10:22-76
+uses-sdk
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:13:5-15:41
+MERGED from [smaignite:react-native-google-signin:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-google-signin\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] C:\Users\Weeradeth\.android\build-cache\f7395e26015cb4bcc28776b2a740b88ddd23508a\output\AndroidManifest.xml:4:5-42
+MERGED from [smaignite:react-native-vector-icons:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [smaignite:react-native-maps:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-maps\android\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Weeradeth\.android\build-cache\b5ff9b901bb98c016c3e2ff8848170e8153328fa\output\AndroidManifest.xml:23:5-42
+MERGED from [smaignite:react-native-i18n:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-i18n\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [smaignite:react-native-device-info:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-device-info\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\Weeradeth\.android\build-cache\d892898d19c6ab12caa9c3862ee3be1065004a27\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\Weeradeth\.android\build-cache\9db661e51ec6eed220210a76637a773ab8291620\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Weeradeth\.android\build-cache\ee192f2895f4eb1903b13686e5906cbc654d94dd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Weeradeth\.android\build-cache\db2cda2813ebae4dc103c1b6c6178c7a5070bb20\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Weeradeth\.android\build-cache\137a6047ac234625a100d66e6024d6b35a8b737b\output\AndroidManifest.xml:17:5-42
+MERGED from [smaignite:react-native-config:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-config\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [smaignite:react-native-facebook-login:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-facebook-login\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.43.0] C:\Users\Weeradeth\.android\build-cache\806664f55d412fd26b3fef9e12dee27ac194fec8\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Weeradeth\.android\build-cache\10715791f4327f9e9589fc4a456f99fe96744276\output\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Weeradeth\.android\build-cache\919f64c6a01ff98028843d0289322025c3a79924\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] C:\Users\Weeradeth\.android\build-cache\a3f7d1785cc8b72e211df7c24587153ca44632b4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] C:\Users\Weeradeth\.android\build-cache\c53498d1be7d8684066c97be02c4eaf49ed8d00d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] C:\Users\Weeradeth\.android\build-cache\f1e11505366fa55a8da6aea7e80a2ea8aade8115\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] C:\Users\Weeradeth\.android\build-cache\46e8a1a6839c6b315df524a212d7305b17f90ad4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] C:\Users\Weeradeth\.android\build-cache\070dfb05b68864aa09fc47696344f540a020d181\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] C:\Users\Weeradeth\.android\build-cache\850de4c48adbd697564ebfafda01d6ea4513bbb7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Weeradeth\.android\build-cache\2082ef214ee637f9bc68f7da79718785680df36e\output\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\Weeradeth\.android\build-cache\49d27ca16aa537391d5333d524625dd03718da52\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Weeradeth\.android\build-cache\45ac9475ed12e637f6981421bd7593862a94accb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Weeradeth\.android\build-cache\c1631c27b89240fe60cdb4ff0339ffc1063ce469\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Weeradeth\.android\build-cache\e93782347d62d70cc31b06c9cd4ae5bcb1320f2f\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Weeradeth\.android\build-cache\0bb71d806191994b1bceb5f49614030531e92f63\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\Weeradeth\.android\build-cache\3611ade3ed05327accefa9d722ae2e346b2cf946\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Weeradeth\.android\build-cache\9a1ce6d2dd386f5aef56a54cd5ec72a7078da0dc\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Weeradeth\.android\build-cache\45ac9475ed12e637f6981421bd7593862a94accb\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:15:9-38
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:14:9-35
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:17:5-64:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Weeradeth\.android\build-cache\b5ff9b901bb98c016c3e2ff8848170e8153328fa\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\Weeradeth\.android\build-cache\d892898d19c6ab12caa9c3862ee3be1065004a27\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\Weeradeth\.android\build-cache\9db661e51ec6eed220210a76637a773ab8291620\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Weeradeth\.android\build-cache\ee192f2895f4eb1903b13686e5906cbc654d94dd\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\Weeradeth\.android\build-cache\db2cda2813ebae4dc103c1b6c6178c7a5070bb20\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Weeradeth\.android\build-cache\137a6047ac234625a100d66e6024d6b35a8b737b\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.react:react-native:0.43.0] C:\Users\Weeradeth\.android\build-cache\806664f55d412fd26b3fef9e12dee27ac194fec8\output\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Weeradeth\.android\build-cache\2082ef214ee637f9bc68f7da79718785680df36e\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Weeradeth\.android\build-cache\368bb4566eaa906744c3ae8c991b77fde526a471\output\AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\Weeradeth\.android\build-cache\49d27ca16aa537391d5333d524625dd03718da52\output\AndroidManifest.xml:28:5-38:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Weeradeth\.android\build-cache\45ac9475ed12e637f6981421bd7593862a94accb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Weeradeth\.android\build-cache\c1631c27b89240fe60cdb4ff0339ffc1063ce469\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Weeradeth\.android\build-cache\e93782347d62d70cc31b06c9cd4ae5bcb1320f2f\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Weeradeth\.android\build-cache\0bb71d806191994b1bceb5f49614030531e92f63\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\Weeradeth\.android\build-cache\3611ade3ed05327accefa9d722ae2e346b2cf946\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Weeradeth\.android\build-cache\9a1ce6d2dd386f5aef56a54cd5ec72a7078da0dc\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:20:7-39
+	android:allowBackup
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:19:7-33
+	android:icon
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:21:7-41
+	android:theme
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:22:7-38
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:18:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:24:7-26:73
+	android:value
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:26:15-70
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:25:15-60
+activity#com.smaignite.MainActivity
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:29:7-37:18
+	android:label
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:31:9-41
+	android:configChanges
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:32:9-79
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:30:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:33:9-36:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:34:13-65
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:34:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:35:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:38:7-84
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:38:17-81
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:41:7-45:82
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\Weeradeth\.android\build-cache\49d27ca16aa537391d5333d524625dd03718da52\output\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:44:21-53
+	android:configChanges
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:43:21-104
+	android:theme
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:45:21-80
+		REJECTED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\Weeradeth\.android\build-cache\49d27ca16aa537391d5333d524625dd03718da52\output\AndroidManifest.xml:32:13-63
+	tools:replace
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:41:17-46
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:42:21-65
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:48:7-57:18
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\Weeradeth\.android\build-cache\49d27ca16aa537391d5333d524625dd03718da52\output\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:50:11-34
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:49:11-56
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:51:11-56:27
+action#android.intent.action.VIEW
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:52:15-66
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:52:23-64
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:53:15-73
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:53:25-71
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:54:15-75
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:54:25-73
+data
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:55:15-72
+	android:scheme
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:55:21-70
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:60:7-62:50
+	android:value
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:62:15-48
+	android:name
+		ADDED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:61:15-60
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\Weeradeth\.android\build-cache\8d3eaae0eca0acc6099585752e4741d127365f20\output\AndroidManifest.xml:24:18-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [smaignite:react-native-maps:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-maps\android\build\intermediates\bundles\default\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [smaignite:react-native-maps:unspecified] C:\Users\Weeradeth\mttproject\mtt\node_modules\react-native-maps\android\build\intermediates\bundles\default\AndroidManifest.xml:10:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Weeradeth\.android\build-cache\b5ff9b901bb98c016c3e2ff8848170e8153328fa\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Weeradeth\.android\build-cache\b5ff9b901bb98c016c3e2ff8848170e8153328fa\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\Weeradeth\.android\build-cache\b5ff9b901bb98c016c3e2ff8848170e8153328fa\output\AndroidManifest.xml:21:52-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\Weeradeth\.android\build-cache\d892898d19c6ab12caa9c3862ee3be1065004a27\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\Weeradeth\.android\build-cache\9db661e51ec6eed220210a76637a773ab8291620\output\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\Weeradeth\.android\build-cache\d892898d19c6ab12caa9c3862ee3be1065004a27\output\AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Weeradeth\.android\build-cache\ee192f2895f4eb1903b13686e5906cbc654d94dd\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Weeradeth\.android\build-cache\ee192f2895f4eb1903b13686e5906cbc654d94dd\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Weeradeth\.android\build-cache\ee192f2895f4eb1903b13686e5906cbc654d94dd\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\Weeradeth\.android\build-cache\ee192f2895f4eb1903b13686e5906cbc654d94dd\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Weeradeth\.android\build-cache\137a6047ac234625a100d66e6024d6b35a8b737b\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Weeradeth\.android\build-cache\137a6047ac234625a100d66e6024d6b35a8b737b\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\Weeradeth\.android\build-cache\137a6047ac234625a100d66e6024d6b35a8b737b\output\AndroidManifest.xml:20:20-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:1:1-66:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:1:1-66:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Weeradeth\mttproject\mtt\android\app\src\main\AndroidManifest.xml:1:1-66:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\Weeradeth\.android\build-cache\49d27ca16aa537391d5333d524625dd03718da52\output\AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\Weeradeth\.android\build-cache\49d27ca16aa537391d5333d524625dd03718da52\output\AndroidManifest.xml:37:19-68
